@@ -1,0 +1,34 @@
+p=True
+q=False
+print(p)
+print(q)
+a=7
+b=12
+print(a>b)
+print(a<b)
+x=-10
+print(x<0)
+print(x>0)
+age=16
+print(age>=18)
+print(age<=18)
+m=15
+n=30
+print(m>10)
+print(n>10)
+marks=85
+print(marks>=50)
+temp=100
+print(temp==100)
+st="python"
+print(st=="python")
+msg="hello world"
+print(msg)
+t="siva sankar"
+print(t)
+print(type(t))
+text="Programming"
+print(text[0])
+print(st[5])
+st1="Learning"
+print(len(st1))
